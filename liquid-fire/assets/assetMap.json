@@ -1,0 +1,14 @@
+{
+  "assets": {
+    "GitHub-Mark-Light-32px.png": "GitHub-Mark-Light-32px-d56df49a807a9fd06eb1667a84d3810e.png",
+    "assets/dummy-fastboot.js": "assets/dummy-fastboot-8af7c10f53bf3cdc4e024e178ab7d5b4.js",
+    "assets/dummy.css": "assets/dummy-f93d1641d634ca08746c1fe996cc082c.css",
+    "assets/dummy.js": "assets/dummy-296354ce7d52739fd45647fe99b56662.js",
+    "assets/vendor.css": "assets/vendor-f0b19cccb826fa442f7b2f406025feb4.css",
+    "assets/vendor.js": "assets/vendor-be42982ae2835ba571c28f3af29daa4f.js",
+    "liquidfire-logo.png": "liquidfire-logo-0a037028b05495ff7ee74f8323507d05.png",
+    "moment/fastboot-moment-timezone.js": "moment/fastboot-moment-timezone-578ab4bc24839c1fa18fc484b2cf5d0d.js",
+    "moment/fastboot-moment.js": "moment/fastboot-moment-fc1d02c2a35021ee4ca1a6f87a5a64c7.js"
+  },
+  "prepend": ""
+}
